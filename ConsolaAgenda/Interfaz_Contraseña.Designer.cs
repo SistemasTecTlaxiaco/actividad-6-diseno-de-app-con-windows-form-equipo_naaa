@@ -1,6 +1,6 @@
 ﻿namespace ConsolaAgenda
 {
-    partial class Form1
+    partial class Interfaz_Contraseña
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // Interfaz_Contraseña
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1435, 955);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1478, 1044);
+            this.Name = "Interfaz_Contraseña";
+            this.Text = "Form2";
             this.ResumeLayout(false);
 
         }
