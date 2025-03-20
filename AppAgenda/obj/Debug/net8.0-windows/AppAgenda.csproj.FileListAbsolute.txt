@@ -1,0 +1,17 @@
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\bin\Debug\net8.0-windows\AppAgenda.exe
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\bin\Debug\net8.0-windows\AppAgenda.deps.json
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\bin\Debug\net8.0-windows\AppAgenda.runtimeconfig.json
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\bin\Debug\net8.0-windows\AppAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\bin\Debug\net8.0-windows\AppAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Form1.resources
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.csproj.GenerateResource.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.AssemblyInfo.cs
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.sourcelink.json
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\refint\AppAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.genruntimeconfig.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\ref\AppAgenda.dll

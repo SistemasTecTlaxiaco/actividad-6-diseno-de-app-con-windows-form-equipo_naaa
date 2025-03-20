@@ -1,6 +1,6 @@
 ﻿namespace AppAgenda
 {
-    partial class Form1
+    partial class Interfaz_Acceso
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,12 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            panel1 = new Panel();
+            SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.DarkSlateGray;
+            panel1.Location = new Point(-13, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1500, 1057);
+            panel1.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1478, 1044);
+            Controls.Add(panel1);
+            Name = "Form1";
+            Text = "Interfaz Acceso";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Panel panel1;
     }
 }

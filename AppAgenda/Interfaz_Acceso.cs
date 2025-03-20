@@ -1,8 +1,8 @@
 namespace AppAgenda
 {
-    public partial class Form1 : Form
+    public partial class Interfaz_Acceso : Form
     {
-        public Form1()
+        public Interfaz_Acceso()
         {
             InitializeComponent();
         }
