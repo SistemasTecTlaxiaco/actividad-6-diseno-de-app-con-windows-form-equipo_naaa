@@ -33,13 +33,16 @@
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
+            pictureBox1 = new PictureBox();
             panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
             panel1.BackColor = Color.DarkSlateGray;
             panel1.BorderStyle = BorderStyle.Fixed3D;
+            panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(label4);
             panel1.Controls.Add(label3);
             panel1.Controls.Add(label2);
@@ -86,12 +89,22 @@
             label4.AutoSize = true;
             label4.Font = new Font("Microsoft New Tai Lue", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(548, 417);
+            label4.Location = new Point(548, 407);
             label4.Name = "label4";
             label4.Size = new Size(337, 40);
             label4.TabIndex = 3;
             label4.Text = "Confirme su contraseña:";
             label4.Click += label4_Click;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.seguridad_de_datos;
+            pictureBox1.Location = new Point(-2, 3);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(451, 765);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
             // 
             // Interfaz_Contraseña
             // 
@@ -103,6 +116,7 @@
             Text = "Form1";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -113,5 +127,6 @@
         private Label label4;
         private Label label3;
         private Label label2;
+        private PictureBox pictureBox1;
     }
 }
