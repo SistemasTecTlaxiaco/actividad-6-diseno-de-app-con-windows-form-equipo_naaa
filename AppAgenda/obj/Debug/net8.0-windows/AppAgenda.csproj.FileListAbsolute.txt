@@ -32,3 +32,4 @@ C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-
 C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.dll
 C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\refint\AppAgenda.dll
 C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Properties.Resources.resources
