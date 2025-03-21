@@ -1,0 +1,6 @@
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\bin\Debug\LibreriaAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\bin\Debug\LibreriaAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\obj\Debug\LibreriaAgenda.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\obj\Debug\LibreriaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\obj\Debug\LibreriaAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\LibreriaAgenda\obj\Debug\LibreriaAgenda.pdb
