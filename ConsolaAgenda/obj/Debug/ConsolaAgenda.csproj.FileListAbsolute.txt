@@ -8,3 +8,13 @@ C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\Co
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.CoreCompileInputs.cache
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.exe
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.pdb
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\bin\Debug\ConsolaAgenda.exe.config
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\bin\Debug\ConsolaAgenda.exe
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\bin\Debug\ConsolaAgenda.pdb
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.AssemblyReference.cache
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.Interfaz_Contraseña.resources
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.Interfaz_Inicio.resources
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.GenerateResource.cache
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.exe
+C:\Users\Angel NJ\Documents\AgendaR\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\ConsolaAgenda\obj\Debug\ConsolaAgenda.pdb
