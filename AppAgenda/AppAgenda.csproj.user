@@ -4,6 +4,9 @@
     <Compile Update="Componente_Boton\BotonPersonalizado.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Update="Componente_Panel\Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Update="Componente_TextBox\RJTextBox.cs">
       <SubType>UserControl</SubType>
     </Compile>
