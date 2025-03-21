@@ -2,9 +2,9 @@ C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\Co
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\ConsolaAgenda.exe
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\ConsolaAgenda.pdb
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.AssemblyReference.cache
-C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.Interfaz_Contraseña.resources
-C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.Interfaz_Inicio.resources
-C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.GenerateResource.cache
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.csproj.CoreCompileInputs.cache
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.exe
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\LibreriaAgenda.dll
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\bin\Debug\LibreriaAgenda.pdb
+C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\ConsolaAgenda\obj\Debug\ConsolaA.5F61BC56.Up2Date

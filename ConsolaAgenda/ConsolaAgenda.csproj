@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LibreriaAgenda">
+      <HintPath>..\LibreriaAgenda\bin\Debug\LibreriaAgenda.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -45,43 +48,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaz_Contraseña.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Interfaz_Contraseña.Designer.cs">
-      <DependentUpon>Interfaz_Contraseña.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Interfaz_CrearUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Interfaz_CrearUsuario.Designer.cs">
-      <DependentUpon>Interfaz_CrearUsuario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Interfaz_Acceso.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Interfaz_Acceso.Designer.cs">
-      <DependentUpon>Interfaz_Acceso.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Interfaz_Inicio.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Interfaz_Inicio.Designer.cs">
-      <DependentUpon>Interfaz_Inicio.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Interfaz_Contraseña.resx">
-      <DependentUpon>Interfaz_Contraseña.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Interfaz_Inicio.resx">
-      <DependentUpon>Interfaz_Inicio.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
