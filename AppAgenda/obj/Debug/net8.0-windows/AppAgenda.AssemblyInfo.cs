@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppAgenda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78308292f9877f6133b2b0d1671872d737a35060")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a18d0cdb6b0b95e589155a8cceb677719feab744")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppAgenda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppAgenda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

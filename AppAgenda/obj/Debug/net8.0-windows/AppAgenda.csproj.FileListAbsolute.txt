@@ -19,3 +19,16 @@ C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Contraseña.resources
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Inicio.resources
 C:\Users\lopez\Documents\LibreriaAgenda\ConsolaAgenda\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Usuario.resources
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Acceso.resources
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Contraseña.resources
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Inicio.resources
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.Interfaz_Usuario.resources
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.csproj.GenerateResource.cache
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.AssemblyInfoInputs.cache
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.AssemblyInfo.cs
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.sourcelink.json
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.dll
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\refint\AppAgenda.dll
+C:\Users\Angel NJ\Documents\Agenda R\actividad-6-diseno-de-app-con-windows-form-equipo_naaa\AppAgenda\obj\Debug\net8.0-windows\AppAgenda.pdb
